@@ -1,0 +1,1 @@
+web: gunicorn mainlinebot.wsgi --log-file -
